@@ -1,0 +1,14 @@
+/home/as_abrorov/RiderProjects/Files_3/Files_3/bin/Debug/net8.0/Files_3
+/home/as_abrorov/RiderProjects/Files_3/Files_3/bin/Debug/net8.0/Files_3.deps.json
+/home/as_abrorov/RiderProjects/Files_3/Files_3/bin/Debug/net8.0/Files_3.runtimeconfig.json
+/home/as_abrorov/RiderProjects/Files_3/Files_3/bin/Debug/net8.0/Files_3.dll
+/home/as_abrorov/RiderProjects/Files_3/Files_3/bin/Debug/net8.0/Files_3.pdb
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/Files_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/Files_3.AssemblyInfoInputs.cache
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/Files_3.AssemblyInfo.cs
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/Files_3.csproj.CoreCompileInputs.cache
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/Files_3.dll
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/refint/Files_3.dll
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/Files_3.pdb
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/Files_3.genruntimeconfig.cache
+/home/as_abrorov/RiderProjects/Files_3/Files_3/obj/Debug/net8.0/ref/Files_3.dll
